@@ -29,7 +29,6 @@
 		571EF089182F244E00B92ADA /* NSError+Benihime.m in Sources */ = {isa = PBXBuildFile; fileRef = 571EF05C182F244E00B92ADA /* NSError+Benihime.m */; };
 		571EF08A182F244E00B92ADA /* NSIndexPath+Benihime.m in Sources */ = {isa = PBXBuildFile; fileRef = 571EF05E182F244E00B92ADA /* NSIndexPath+Benihime.m */; };
 		571EF08B182F244E00B92ADA /* NSMutableArray+Benihime.m in Sources */ = {isa = PBXBuildFile; fileRef = 571EF060182F244E00B92ADA /* NSMutableArray+Benihime.m */; };
-		571EF08C182F244E00B92ADA /* NSNumber+Benihime.m in Sources */ = {isa = PBXBuildFile; fileRef = 571EF062182F244E00B92ADA /* NSNumber+Benihime.m */; };
 		571EF08D182F244E00B92ADA /* NSString+Benihime.m in Sources */ = {isa = PBXBuildFile; fileRef = 571EF064182F244E00B92ADA /* NSString+Benihime.m */; };
 		571EF08E182F244E00B92ADA /* UIAlertView+Benihime.m in Sources */ = {isa = PBXBuildFile; fileRef = 571EF066182F244E00B92ADA /* UIAlertView+Benihime.m */; };
 		571EF08F182F244E00B92ADA /* UIColor+Benihime.m in Sources */ = {isa = PBXBuildFile; fileRef = 571EF068182F244E00B92ADA /* UIColor+Benihime.m */; };
@@ -108,8 +107,6 @@
 		571EF05E182F244E00B92ADA /* NSIndexPath+Benihime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSIndexPath+Benihime.m"; sourceTree = "<group>"; };
 		571EF05F182F244E00B92ADA /* NSMutableArray+Benihime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+Benihime.h"; sourceTree = "<group>"; };
 		571EF060182F244E00B92ADA /* NSMutableArray+Benihime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+Benihime.m"; sourceTree = "<group>"; };
-		571EF061182F244E00B92ADA /* NSNumber+Benihime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNumber+Benihime.h"; sourceTree = "<group>"; };
-		571EF062182F244E00B92ADA /* NSNumber+Benihime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNumber+Benihime.m"; sourceTree = "<group>"; };
 		571EF063182F244E00B92ADA /* NSString+Benihime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Benihime.h"; sourceTree = "<group>"; };
 		571EF064182F244E00B92ADA /* NSString+Benihime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Benihime.m"; sourceTree = "<group>"; };
 		571EF065182F244E00B92ADA /* UIAlertView+Benihime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+Benihime.h"; sourceTree = "<group>"; };
@@ -272,8 +269,6 @@
 				571EF05E182F244E00B92ADA /* NSIndexPath+Benihime.m */,
 				571EF05F182F244E00B92ADA /* NSMutableArray+Benihime.h */,
 				571EF060182F244E00B92ADA /* NSMutableArray+Benihime.m */,
-				571EF061182F244E00B92ADA /* NSNumber+Benihime.h */,
-				571EF062182F244E00B92ADA /* NSNumber+Benihime.m */,
 				571EF063182F244E00B92ADA /* NSString+Benihime.h */,
 				571EF064182F244E00B92ADA /* NSString+Benihime.m */,
 				571EF065182F244E00B92ADA /* UIAlertView+Benihime.h */,
@@ -425,7 +420,6 @@
 				571EF080182F244E00B92ADA /* BCoreLocation.m in Sources */,
 				571EF084182F244E00B92ADA /* MKMapView+Benihime.m in Sources */,
 				571EF07F182F244E00B92ADA /* BCGeometry.m in Sources */,
-				571EF08C182F244E00B92ADA /* NSNumber+Benihime.m in Sources */,
 				571EF094182F244E00B92ADA /* UIViewController+Benihime.m in Sources */,
 				571EF081182F244E00B92ADA /* BKeyValuePair.m in Sources */,
 				571EF082182F244E00B92ADA /* BDateTimePickerController.m in Sources */,
